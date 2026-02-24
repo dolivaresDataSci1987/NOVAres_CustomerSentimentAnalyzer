@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="/novares_customer_sentiment_banner.png" alt="NOVAres Customer Sentiment Analyzer Banner" width="100%">
-</p>
-
 # NOVAres Customer Sentiment Analyzer  
 ### Comparative Text & Perception Analysis — Logitech vs Razer
 
@@ -20,7 +16,9 @@ The analysis integrates:
 - Rating–sentiment alignment diagnostics
 - Semantic contextual mapping (Gaming ↔ Office axis)
 - Lexical driver analysis (distinctive term extraction)
-
+<p align="center">
+  <img src="/novares_customer_sentiment_banner.png" alt="NOVAres Customer Sentiment Analyzer Banner" width="50%">
+</p>
 ---
 
 ## Project Structure
