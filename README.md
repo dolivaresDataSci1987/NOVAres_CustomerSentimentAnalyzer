@@ -18,7 +18,7 @@ The analysis integrates:
 - Lexical driver analysis (distinctive term extraction)
 
 <p align="center">
-  <img src="/novares_customer_sentiment_banner.png" alt="NOVAres Customer Sentiment Analyzer Banner" width="50%">
+  <img src="/novares_customer_sentiment_banner.png" alt="NOVAres Customer Sentiment Analyzer Banner" width="75%">
 </p>
 
 ---
