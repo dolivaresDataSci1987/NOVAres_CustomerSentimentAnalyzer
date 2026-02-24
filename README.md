@@ -20,18 +20,6 @@ The analysis integrates:
 <p align="center">
   <img src="/novares_customer_sentiment_banner.png" alt="NOVAres Customer Sentiment Analyzer Banner" width="50%">
 </p>
----
-
-## Project Structure
-NOVAres_CustomerSentimentAnalyzer/
-│
-├── NOVAres_CustomerSentimentAnalysis.ipynb
-├── data/
-│ └── Electronics.json.gz
-├── assets/
-│ └── novares_customer_sentiment_banner.png
-└── README.md
-
 
 ---
 
